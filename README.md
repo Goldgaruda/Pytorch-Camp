@@ -9,7 +9,7 @@
 ## 课程学习入口
 
 2.[【随到随学】Pytorch框架班](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/column/p_5df0ad9a09d37_qYqVmt85?type=3)  
-3.[【跟班学】Pytorch框架班第四期](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/column/p_5e86b471126bf_lA4VfCUm?type=3)  
+3.[【跟班学】Pytorch框架班第五期](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/column/p_5ed4c8cc96868_wNTujOEK?type=3)  
 
 ## 学员福利
 
@@ -20,7 +20,9 @@
 
 关注公众号**深度之眼**，后台回复GPU获取GPU使用教程！
 
-## 课程安排及资料下载（[作业讲解代码地址](https://github.com/greebear/pytorch-learning)）
+## 课程安排及资料下载
+
+### 🍬[作业讲解代码下载地址](https://github.com/greebear/pytorch-learning)
 
 ### 🍬[Week 1](https://github.com/JansonYuan/Pytorch-Camp/blob/master/Week1.md)
 1. Pytorch简介及环境配置
